@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/NikaDalalishvili/newsletter-sign-up-form-with-success-message)
-- [Live Site URL](https://nikadalalishvili.github.io/newsletter-sign-up-form-with-success-message/)
+- [Solution URL](https://github.com/DalaScript/newsletter-sign-up-form-with-success-message)
+- [Live Site URL](https://DalaScript.github.io/newsletter-sign-up-form-with-success-message/)
 
 ## My process
 
