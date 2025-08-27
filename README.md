@@ -40,11 +40,6 @@ Users should be able to:
 
 ![Live Preview Screenshot](./assets/images/screenshot/screenshot.jpg)
 
-### Links
-
-- [Solution URL](https://github.com/DalaScript/newsletter-sign-up-form-with-success-message)
-- [Live Site URL](https://DalaScript.github.io/newsletter-sign-up-form-with-success-message/)
-
 ### 🔗 Links
 
   - [🔴 Live Demo](https://dalascript.github.io/newsletter-sign-up-form-with-success-message/)
